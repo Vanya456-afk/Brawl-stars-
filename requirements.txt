@@ -1,0 +1,8 @@
+telebot
+Flask
+requests
+supabase
+postgrest
+gotrue
+realtime
+dnspython
