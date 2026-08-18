@@ -1,1 +1,0 @@
-24/7 keepalive is configured in bot.py. Hosting provider must also keep the service running.
