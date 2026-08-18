@@ -1,1 +1,0 @@
-The bot runner should use Render's PORT, expose a health endpoint, and restart Telegram polling after transient errors. The keepalive request is only a supplement; continuous 24/7 operation ultimately depends on the hosting plan.
